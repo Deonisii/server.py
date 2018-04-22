@@ -1,4 +1,4 @@
-# server.py
+# Game server
 
 ## Client-Server messages
 
